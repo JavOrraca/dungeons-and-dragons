@@ -1,2 +1,3 @@
 [build]
-publish = "dungeons-and-dragons/public"
+command = "hugo"
+publish = "public"
