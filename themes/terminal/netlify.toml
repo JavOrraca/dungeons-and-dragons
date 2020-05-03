@@ -1,0 +1,5 @@
+[build]
+    publish = "dungeons-and-dragons/public"
+    
+[context.production.environment]
+  HUGO_VERSION = "0.57"
