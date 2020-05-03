@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on D&amp;D Adventures</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on D&amp;D Adventures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blood</title>
+      <link>/post/first-blood/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first-blood/</guid>
+      <description>Over five hundred years ago, a pact was made between a clan of gnomes and dwarves which became known as the Phandelver Pact. Together they mined the magically rich ores within Wave Echo Cave. Human spellcasters from nearby Phandalin joined forces with them and together they combined their collective skills to create a forge to craft magical items dubbed the Forge of Spells. Everything came to an abrupt end when orcs, craving magical treasures, besieged Phandalin and the Wave Echo Cave mine.</description>
+    </item>
+    
+  </channel>
+</rss>
