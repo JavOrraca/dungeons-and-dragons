@@ -26,17 +26,26 @@
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Adulting with D&amp;amp;D My name is Jav and fantasy + gaming has always been part of my life. I convinced a few friends to learn D&amp;amp;D together so I volunteered to be the Dungeon Master (&amp;ldquo;DM&amp;rdquo;) for D&amp;amp;D Starter Set campaign, The Lost Mine of Phandelver.
-I&amp;rsquo;ve always enjoyed storytelling, fantasy, gaming, envisioning crazy worlds, and spending time with friends&amp;hellip; As I write this, COVID-19 is forcing us to practice social distancing and what better way to connect with friends than an interactive storybuilding game that we create together.</description>
+      <description>Adulting with Dungeons &amp;amp; Dragons My name is Jav and gaming has always been a part of my life. I convinced a few friends to learn D&amp;amp;D together so I volunteered to be the Dungeon Master (&amp;ldquo;DM&amp;rdquo;) for D&amp;amp;D Starter Set campaign, The Lost Mine of Phandelver.
+I&amp;rsquo;ve always enjoyed storytelling, fantasy, gaming, envisioning crazy worlds, and spending time with friends. As I write this, COVID-19 is forcing us to practice social distancing and roleplaying with friends (over teleconferencing tools - we&amp;rsquo;re using Skype) has been a much needed escape.</description>
     </item>
     
     <item>
-      <title>Showcase</title>
-      <link>/showcase/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Resources</title>
+      <link>/resources/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/showcase/</guid>
-      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+      <guid>/resources/</guid>
+      <description>The core of D&amp;amp;D is storytelling. You and your friends tell a story together, guiding your heroes through quests for treasure, battles with deadly foes, daring rescues, courtly intrigue, and much more. You can also explore the world of Dungeons &amp;amp; Dragons through any of the novels written by its fantasy authors, as well as engaging board games and immersive video games. All of these stories are part of D&amp;amp;D.</description>
+    </item>
+    
+    <item>
+      <title>Map</title>
+      <link>/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/map/</guid>
+      <description>Where are we now? Taking a detour south from Triboar Trail, we&amp;rsquo;re en route to an alleged goblin hideout&amp;hellip; Or so says our captured goblin&amp;hellip;</description>
     </item>
     
   </channel>

@@ -23,12 +23,16 @@
   </url>
   
   <url>
-    <loc>/showcase/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <loc>/resources/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/map/</loc>
   </url>
   
   <url>
