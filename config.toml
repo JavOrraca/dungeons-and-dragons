@@ -6,7 +6,7 @@ paginate = 5
 [params]
   contentTypeName = "post"
   themeColor = "red"
-  showMenuItems = 3
+  showMenuItems = 4
   fullWidthTheme = false
   centerTheme = true
 
@@ -33,6 +33,10 @@ paginate = 5
         identifier = "map"
         name = "Map"
         url = "/map"
+      [[languages.en.menu.main]]
+        identifier = "post"
+        name = "Our Story"
+        url = "/post"  
       [[languages.en.menu.main]]
         identifier = "resources"
         name = "Resources"
