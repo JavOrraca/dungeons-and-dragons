@@ -21,7 +21,7 @@ Even the "basic rules" (180 pages) of D&D can feel super overwhelming. For begin
 # _WASD20 D&D Overview_
 Nate at [WASD20](https://www.wasd20.net/) shares incredible content on YouTube and his website for getting starting with D&D 5e and has a four-part YouTube series that takes you from the general mechanics of D&D, to a sample encounter, to understanding the nuances of spellcasting:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jT3FRzEJDp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube jT3FRzEJDp8 >}}
 
 - WASD20 D&D Overview [Part 2 of 4 (sample encounter continued) on YouTube](https://www.youtube.com/watch?v=L3jO0PAojDI)
 - WASD20 D&D Overview [Part 3 of 4 (spellcasting) on YouTube](https://youtu.be/hTl_4unUc64)
@@ -30,7 +30,7 @@ Nate at [WASD20](https://www.wasd20.net/) shares incredible content on YouTube a
 # _Critical Role_
 Matt Mercer is the DM for a D&D group of professional voice actors and watching them improvise is a pleasure to say the least. Pure talent from this crew and so much to admire about the way in which they create worlds together. I jumped right into Critical Role's second campaign since the recently released (March 2020) D&D _Explorer's Guide to Wildemount_ is based on this campaign series. Below is the first episode (of _MANY_) of Critical Role's second D&D campaign as well as some additional D&D resources that Critical Role has compiled:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/byva0hOj8CU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube byva0hOj8CU >}}
 
 - Critical Role launches [D&D Handbooker Helper](https://www.youtube.com/playlist?list=PL1tiwbzkOjQyr6-gqJ8r29j_rJkR49uDN) to cover many aspects of D&D gameplay
 - Critical Role & Wizards of the Coast release the [_Explorer's Guide to Wildemount_](https://dnd.wizards.com/products/wildemount)
