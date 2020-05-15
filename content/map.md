@@ -4,6 +4,6 @@ title: "Map"
 
 ## Where are we now?
 
-A cave mouth entered at in the dead of night. Light from the Full moon bounces off the small stream, illuminating the entry way... The cleric's darkvision was taken for granted for too long... 
+A cave mouth entered in the dead of night... Moonlight bounces off a small stream illuminating the entry... The cleric's darkvision was not taken for granted, _not tonight..._ 
 
 ![](/img/Map_Cragmaw_Hideout.png)
