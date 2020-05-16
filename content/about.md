@@ -16,7 +16,7 @@ The main purpose of this blog is to track our campaign's progress and as new DM 
 
 This site was developed and deployed using completely free, open-source tools. I relied on the following tools for building this site:
 
-- R and RStudio Desktop (open-source edition): [https://rstudio.com/products/rstudio/](https://rstudio.com/products/rstudio/)
+- R and RStudio Desktop: [https://rstudio.com/products/rstudio/](https://rstudio.com/products/rstudio/)
 - R's `blogdown` package: [https://bookdown.org/yihui/blogdown/](https://bookdown.org/yihui/blogdown/)
 - Hugo Terminal theme: [https://themes.gohugo.io/hugo-theme-terminal/](https://themes.gohugo.io/hugo-theme-terminal/)
 - R code to install the `blogdown` package and the Hugo site generator:
