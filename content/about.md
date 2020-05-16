@@ -24,5 +24,5 @@ This site was developed and deployed using completely free, open-source tools. I
 install.packages('blogdown')
 blogdown::install_hugo()
 ```
-- GitHub for data persistence (free!): [https://github.com/JavOrraca/dungeons-and-dragons](https://github.com/JavOrraca/dungeons-and-dragons)
+- GitHub for data persistence (free!): [https://github.com/](https://github.com/)
 - Netlify for publishing the site with CI/CD (free!): [https://www.netlify.com/](https://www.netlify.com/)
