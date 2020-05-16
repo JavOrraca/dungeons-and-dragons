@@ -1,52 +1,12 @@
-# Terminal
+# D&D Adventures
 
-![Terminal](https://github.com/panr/hugo-theme-terminal/blob/master/images/screenshot.png?raw=true)
+This project was developed using the R programming language, the blogdown package, and the [Terminal](https://github.com/panr/hugo-theme-terminal/) Hugo theme (theme creator: [Radosław Kozieł](https://twitter.com/panr)). I convinced some friends to learn Dungeons & Dragons and I am using this site to keep track of our story and share resources for people interested in learning Dungeons & Dragons. This is my first time playing in over 20 years and also my first time coordinating a game as Dungeon Master ("DM"), so I plan to share newbie DM tips as well. 
 
-### DEMO - https://hugo-terminal.now.sh/
+### LIVE SITE - https://flamboyant-brahmagupta-3caca6.netlify.app/
 
 ---
 
-- [Features](#features)
-- [Built-in shortcodes](#built-in-shortcodes)
-- [Code highlighting](#code-highlighting)
-- [How to start](#how-to-start)
-- [How to configure](#how-to-configure)
-- [Post archetype](#post-archetype)
-- [Add-ons](#add-ons)
-- [How to run your site](#how-to-run-your-site)
-- [How to edit the theme](#how-to-edit-the-theme)
-- [How to contribute](#how-to-contribute)
-- [Terminal theme user?](#terminal-theme-user)
-- [Sponsoring](#sponsoring)
-- [Licence](#licence)
-
-## Features
-
-- **5 duetone themes**, depending on your preferences (orange is default, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice duotone**, custom syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- fully responsive
-
-#### Built-in shortcodes
-
-- **`image`** (prop required: **`src`**; props optional: **`alt`**, **`position`** (**left** is default | center | right), **`style`**)
-  - eg: `{{< image src="/img/hello.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}`
-- **`figure`** (same as `image`, plus few optional props: **`caption`**, **`captionPosition`** (left | **center** is default | right), **`captionStyle`**
-  - eg: `{{< figure src="/img/hello.png" alt="Hello Friend" position="center" style="border-radius: 8px;" caption="Hello Friend!" captionPosition="right" captionStyle="color: red;" >}}`
-
-#### Code highlighting
-
-A custom syntax highlighting based on PrismJS. All you need to do is to wrap you code like this:
-
-````
-```html
-  // your code here
-```
-````
-
-**Supported languages**: bash/shell, css, clike, javascript, apacheconf, actionscript, applescript, c, csharp, cpp, coffeescript, ruby, csp, css-extras, diff, django, docker, elixir, elm, markup-templating, erlang, fsharp, flow, git, go, graphql, less, handlebars, haskell, http, java, json, kotlin, latex, markdown, makefile, objectivec, ocaml, perl, php, php-extras, r, sql, processing, scss, python, jsx, typescript, toml, reason, textile, rust, sass, stylus, scheme, pug, swift, yaml, haml, twig, tsx, vim, visual-basic, wasm.
-
-## How to start
+## How to clone this project or create your own Terminal website
 
 You can download the theme manually by going to [https://github.com/panr/hugo-theme-terminal.git](https://github.com/panr/hugo-theme-terminal.git) and pasting it to `themes/terminal` in your root directory.
 
@@ -174,22 +134,17 @@ $ npm i yarn
 $ yarn
 ```
 
-## How to contribute
+## Data Persistence and Deployment
 
-If you spot any bugs, please use [Issue Tracker](https://github.com/panr/hugo-theme-terminal/issues) or if you want to add a new feature directly please create a new [Pull Request](https://github.com/panr/hugo-theme-terminal/pulls).
+If you're building your first website with R and blogdown, and you're also new to site deployment, I'd recommend a few steps:
 
-## Terminal theme user?
+* Push your data to [GitHub](https://github.com/) - It's free
+* Deploy your site using [Netlify](https://www.netlify.com/) - It's free
+  * If you don't mind using an auto-generated URL that Netlify offers, you can deploy your git-backed website build to Netlify for free (hence the ugly URL this live site sits on, _BUT_ it's free, so I don't care)
 
-I'd be happy to know more about you and what you are doing. If you want to share it, please make a contribution and [add your site to the list](https://github.com/panr/hugo-theme-terminal/blob/master/USERS.md)! 🤗
-
-## Sponsoring
-
-If you like my work and want to support the development of the project, now you can! Just:
-
-<a href="https://www.buymeacoffee.com/panr" target="_blank"><img src="https://res.cloudinary.com/panr/image/upload/v1579374705/buymeacoffee_y6yvov.svg" alt="Buy Me A Coffee" ></a>
 
 ## License
 
-Copyright © 2019 Radosław Kozieł ([@panr](https://twitter.com/panr))
+The Terminal theme is a simple, retro theme for Hugo. Copyright © 2020 Radosław Kozieł ([@panr](https://twitter.com/panr))
 
 The theme is released under the MIT License. Check the [original theme license](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md) for additional licensing information.
